@@ -3,7 +3,7 @@ sort işlemleri
 # Insertion-Sort-Project
 [Patika.dev](https://www.patika.dev/tr)
 
-##[22,27,16,2,18,6] __>Insertion Sort
+## [22,27,16,2,18,6] __>Insertion Sort
 
 ### 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
