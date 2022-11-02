@@ -1,0 +1,2 @@
+# veriyapilarivealgoritmalari
+sort işlemleri
